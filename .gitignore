@@ -122,3 +122,4 @@ $RECYCLE.BIN/
 logs/*
 local-runserver.sh
 nohup.out
+*.md
